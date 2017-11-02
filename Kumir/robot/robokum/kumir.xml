@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KURS xml:id="0" xml:name="Робот">
+<T xml:id="1" xml:name="Урок 1: Линейные алгоритмы">
+     <T xml:id="101" xml:name="1-A">
+     <TITLE>1-A</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/1/1-A.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/1/1-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="102" xml:name="1-B">
+     <TITLE>1-B</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/1/1-B.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/1/1-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="103" xml:name="1-C">
+     <TITLE>1-C</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/1/1-C.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/1/1-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+         <T xml:id="104" xml:name="1-D">
+     <TITLE>1-D</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/1/1-D.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/1/1-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+    <DESC>Задания на составление простых линейных алгоритмов</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="2" xml:name="Урок 2: цикл «N раз»">
+     <T xml:id="201" xml:name="2-A">
+     <TITLE>2-A</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/2/2-A.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/2/2-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="202" xml:name="2-B">
+     <TITLE>2-B</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/2/2-B.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/2/2-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="203" xml:name="2-C">
+     <TITLE>2-C</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/2/2-C.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/2/2-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="204" xml:name="2-D">
+     <TITLE>2-D</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/2/2-D.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/2/2-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+    <DESC>Задания на &lt;b&gt;цикл «N раз»&lt;/b&gt;</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="3" xml:name="Урок 3: цикл «N раз»">
+     <T xml:id="301" xml:name="3-A">
+     <TITLE>3-A</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/3/3-A.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/3/3-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="302" xml:name="3-B">
+     <TITLE>3-B</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/3/3-B.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/3/3-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="303" xml:name="3-C">
+     <TITLE>3-C</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/3/3-C.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/3/3-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="304" xml:name="3-D">
+     <TITLE>3-D</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/3/3-D.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/3/3-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+    <DESC>Задания на &lt;b&gt;цикл «N раз»&lt;/b&gt;. Практикум.</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="4" xml:name="Урок 4: вложенные циклы «N раз»">
+     <T xml:id="401" xml:name="4-A">
+     <TITLE>4-A</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вложенный цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/4/4-A.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/4/4-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="402" xml:name="4-B">
+     <TITLE>4-B</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вложенный цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/4/4-B.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/4/4-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="403" xml:name="4-C">
+     <TITLE>4-C</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вложенный цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/4/4-C.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/4/4-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="404" xml:name="4-D">
+     <TITLE>4-D</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вложенный цикл «N раз»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/4/4-D.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/4/4-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;вложенные циклы «N раз»&lt;/b&gt;.</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="5" xml:name="Урок 5: циклы «пока»">
+     <T xml:id="501" xml:name="5-A">
+     <TITLE>5-A</TITLE>
+       <DESC>Робот стоит у левой стенки ограды. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок считайте неизвестными.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/5/5-A4.fil</ENV>
+       <ENV>robot/5/5-A3.fil</ENV>
+       <ENV>robot/5/5-A2.fil</ENV>
+       <ENV>robot/5/5-A1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/5/5-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="502" xml:name="5-B">
+     <TITLE>5-B</TITLE>
+       <DESC>Робот стоит у левой стенки поля. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок считайте неизвестными.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/5/5-B4.fil</ENV>
+       <ENV>robot/5/5-B3.fil</ENV>
+       <ENV>robot/5/5-B2.fil</ENV>
+       <ENV>robot/5/5-B1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/5/5-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="503" xml:name="5-C">
+     <TITLE>5-C</TITLE>
+       <DESC>Робот стоит где-то на поле. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок считайте неизвестными.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/5/5-C4.fil</ENV>
+       <ENV>robot/5/5-C3.fil</ENV>
+       <ENV>robot/5/5-C2.fil</ENV>
+       <ENV>robot/5/5-C1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/5/5-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="504" xml:name="5-D">
+     <TITLE>5-D</TITLE>
+       <DESC>Робот стоит под прямоугольной оградой. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок считайте неизвестными.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/5/5-D5.fil</ENV>
+       <ENV>robot/5/5-D4.fil</ENV>
+       <ENV>robot/5/5-D3.fil</ENV>
+       <ENV>robot/5/5-D2.fil</ENV>
+       <ENV>robot/5/5-D1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/5/5-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;цикл «пока»&lt;/b&gt;.</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="6" xml:name="Урок 6: ветвления">
+     <T xml:id="601" xml:name="6-A">
+     <TITLE>6-A</TITLE>
+       <DESC>Робот стоит у левой стенки поля. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными. Глубина всех проходов - 2 клетки.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/6/6-A4.fil</ENV>
+       <ENV>robot/6/6-A3.fil</ENV>
+       <ENV>robot/6/6-A2.fil</ENV>
+       <ENV>robot/6/6-A1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/6/6-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="602" xml:name="6-B">
+     <TITLE>6-B</TITLE>
+       <DESC>Робот стоит у входа в коридор. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными.  Глубина всех проходов - 1 клетка.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/6/6-B7.fil</ENV>
+       <ENV>robot/6/6-B6.fil</ENV>
+       <ENV>robot/6/6-B5.fil</ENV>
+       <ENV>robot/6/6-B4.fil</ENV>
+       <ENV>robot/6/6-B3.fil</ENV>
+       <ENV>robot/6/6-B2.fil</ENV>
+       <ENV>robot/6/6-B1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/6/6-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="603" xml:name="6-C">
+     <TITLE>6-C</TITLE>
+       <DESC>Робот стоит у входа в коридор. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными. Глубина всех верхних проходов - 2 клетки,
+	   глубина всех нижних проходов - 1 клетка.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/6/6-C7.fil</ENV>
+       <ENV>robot/6/6-C6.fil</ENV>
+       <ENV>robot/6/6-C5.fil</ENV>
+       <ENV>robot/6/6-C4.fil</ENV>
+       <ENV>robot/6/6-C3.fil</ENV>
+       <ENV>robot/6/6-C2.fil</ENV>
+       <ENV>robot/6/6-C1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/6/6-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="604" xml:name="6-D">
+     <TITLE>6-D</TITLE>
+       <DESC>Робот стоит у входа в коридор. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными. Глубина верхних и нижних проходов - 1 или 2 клетки.&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл «пока»&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/6/6-D7.fil</ENV>
+       <ENV>robot/6/6-D6.fil</ENV>
+       <ENV>robot/6/6-D5.fil</ENV>
+       <ENV>robot/6/6-D4.fil</ENV>
+       <ENV>robot/6/6-D3.fil</ENV>
+       <ENV>robot/6/6-D2.fil</ENV>
+       <ENV>robot/6/6-D1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/6/6-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на ветвления (условные операторы &lt;b&gt;если ... то&lt;/b&gt;).</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="7" xml:name="Урок 7: сложные условия">
+     <T xml:id="701" xml:name="7-A">
+     <TITLE>7-A</TITLE>
+       <DESC>Робот стоит у входа в коридор. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными.&lt;br/&gt;
+	   Используйте цикл «пока» и &lt;b&gt;сложные условия&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/7/7-A5.fil</ENV>
+       <ENV>robot/7/7-A4.fil</ENV>
+       <ENV>robot/7/7-A3.fil</ENV>
+       <ENV>robot/7/7-A2.fil</ENV>
+       <ENV>robot/7/7-A1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/7/7-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="702" xml:name="7-B">
+     <TITLE>7-B</TITLE>
+       <DESC>Робот стоит у входа в коридор. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;). Закрашивать нужно все клетки коридора,
+	   которые ограничены стенками с обеих сторон. &lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными.&lt;br/&gt;
+	   Используйте цикл «пока» и &lt;b&gt;сложные условия&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/7/7-B5.fil</ENV>
+       <ENV>robot/7/7-B4.fil</ENV>
+       <ENV>robot/7/7-B3.fil</ENV>
+       <ENV>robot/7/7-B2.fil</ENV>
+       <ENV>robot/7/7-B1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/7/7-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="703" xml:name="7-C">
+     <TITLE>7-C</TITLE>
+       <DESC>Робот стоит у входа в коридор. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;). В коридоре нужно закрашивать только те
+	   клетки, которые ограничены стенками с двух сторон. &lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными.&lt;br/&gt;
+	   Используйте цикл «пока» и &lt;b&gt;сложные условия&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/7/7-C5.fil</ENV>
+       <ENV>robot/7/7-C4.fil</ENV>
+       <ENV>robot/7/7-C3.fil</ENV>
+       <ENV>robot/7/7-C2.fil</ENV>
+       <ENV>robot/7/7-C1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/7/7-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="704" xml:name="7-D">
+     <TITLE>7-D</TITLE>
+       <DESC>Робот стоит у входа в коридор. Он должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;). В коридоре нужно закрашивать только те
+	   клетки, которые ограничены стенками с двух сторон. &lt;br/&gt;
+	   Длины стенок и число проходов считайте неизвестными.&lt;br/&gt;
+	   Используйте цикл «пока» и &lt;b&gt;сложные условия&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/7/7-D6.fil</ENV>
+       <ENV>robot/7/7-D5.fil</ENV>
+       <ENV>robot/7/7-D4.fil</ENV>
+       <ENV>robot/7/7-D3.fil</ENV>
+       <ENV>robot/7/7-D2.fil</ENV>
+       <ENV>robot/7/7-D1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/7/7-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;сложные условия&lt;/b&gt;.</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="8" xml:name="Урок 8: вспомогательные алгоритмы">
+     <T xml:id="801" xml:name="8-A">
+     <TITLE>8-A</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt; «Колонка».
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/8/8-A.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/8/8-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="802" xml:name="8-B">
+     <TITLE>8-B</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt; «Сапог».
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/8/8-B.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/8/8-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="803" xml:name="8-C">
+     <TITLE>8-C</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/8/8-C.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/8/8-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="804" xml:name="8-D">
+     <TITLE>8-D</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt;, который
+	   должен вызываться 4 раза.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/8/8-D.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/8/8-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;вспомогательные алгоритмы&lt;/b&gt;).</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="9" xml:name="Урок 9: переменные">
+     <T xml:id="901" xml:name="9-A">
+     <TITLE>9-A</TITLE>
+       <DESC>Робот стоит у нижней стенки прямоугольной ограды. Он должен 
+	   прийти на базу (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;),
+	   которая расположена с противоположной стороны ограды на таком же
+	   расстоянии от левой стенки.&lt;br/&gt;	   
+	   Используйте &lt;b&gt;переменные&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/9/9-A4.fil</ENV>
+       <ENV>robot/9/9-A3.fil</ENV>
+       <ENV>robot/9/9-A2.fil</ENV>
+       <ENV>robot/9/9-A1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/9/9-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="902" xml:name="9-B">
+     <TITLE>9-B</TITLE>
+       <DESC>Робот стоит напротив стенки. Он должен обойти стенку,
+	   закрасить все отмеченные клетки (под стенкой слева от линии Робот-база) 
+	   и прийти на базу (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;),
+	   которая расположена с другой стороны стенки напротив Робота на таком же
+	   расстоянии от стенки.&lt;br/&gt;	   	   
+	   Используйте &lt;b&gt;переменные&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/9/9-B4.fil</ENV>
+       <ENV>robot/9/9-B3.fil</ENV>
+       <ENV>robot/9/9-B2.fil</ENV>
+       <ENV>robot/9/9-B1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/9/9-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="903" xml:name="9-C">
+     <TITLE>9-C</TITLE>
+       <DESC>Робот стоит где-то внутри поля. Он должен закрасить клетки в
+	   углах поля и вернуться в начальную точку.&lt;br/&gt;	   
+	   Используйте &lt;b&gt;переменные&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/9/9-C6.fil</ENV>
+       <ENV>robot/9/9-C5.fil</ENV>
+       <ENV>robot/9/9-C4.fil</ENV>
+       <ENV>robot/9/9-C3.fil</ENV>
+       <ENV>robot/9/9-C2.fil</ENV>
+       <ENV>robot/9/9-C1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/9/9-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="904" xml:name="9-D">
+     <TITLE>9-D</TITLE>
+       <DESC>Поле разделено горизонтальной стенкой на две части, в стенке есть проход.
+	   Робот стоит где-то внутри верхней части поля. Он должен закрасить клетки в
+	   углах обеих частей поля и вернуться в начальную точку.&lt;br/&gt;	   
+	   Используйте &lt;b&gt;переменные&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/9/9-D6.fil</ENV>
+       <ENV>robot/9/9-D5.fil</ENV>
+       <ENV>robot/9/9-D4.fil</ENV>
+       <ENV>robot/9/9-D3.fil</ENV>
+       <ENV>robot/9/9-D2.fil</ENV>
+       <ENV>robot/9/9-D1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/9/9-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;переменные&lt;/b&gt;).</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="10" xml:name="Урок 10: алгоритмы с результатом">
+     <T xml:id="1001" xml:name="10-A">
+     <TITLE>10-A</TITLE>
+       <DESC>Ниже Робота расположена стенка. Он должен
+	   закрасить все отмеченные клетки и 
+       прийти на базу (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt;, который
+       выполняет это задание и вычисляет длину стенки.	   
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/10/10-A4.fil</ENV>
+       <ENV>robot/10/10-A3.fil</ENV>
+       <ENV>robot/10/10-A2.fil</ENV>
+       <ENV>robot/10/10-A1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/10/10-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1002" xml:name="10-B">
+     <TITLE>10-B</TITLE>
+       <DESC>Робот стоит на пустом поле. Он должен закрасить клетки в углах
+	   поля и прийти на базу (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;),
+	   которая расположена в правом нижнем углу.&lt;br/&gt;	   
+	   Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt;, который
+	   выполняет это задание и вычисляет площадь поля.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/10/10-B5.fil</ENV>
+       <ENV>robot/10/10-B4.fil</ENV>
+       <ENV>robot/10/10-B3.fil</ENV>
+       <ENV>robot/10/10-B2.fil</ENV>
+       <ENV>robot/10/10-B1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/10/10-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1003" xml:name="10-C">
+     <TITLE>10-C</TITLE>
+       <DESC> Робот стоит где-то внутри  прямоугольного поля.
+	   Он должен закрасить все клетки по контуру
+	   поля и вернуться в начальную клетку.&lt;br/&gt;	   
+	   Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt;, который
+	   вычисляет площадь поля.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/10/10-C5.fil</ENV>
+       <ENV>robot/10/10-C4.fil</ENV>
+       <ENV>robot/10/10-C3.fil</ENV>
+       <ENV>robot/10/10-C2.fil</ENV>
+       <ENV>robot/10/10-C1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/10/10-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1004" xml:name="10-D">
+     <TITLE>10-D</TITLE>
+       <DESC>Поле состоит из двух прямоугольников, правые границы которых находятся
+       на одной линии. Робот стоит где-то в нижнем (широком) прямоугольнике. &lt;br/&gt;
+       Робот должен закрасить все клетки по контуру поля
+       и прийти на базу в правый нижний угол поля.&lt;br/&gt;
+       Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt;, который
+       выполняет это задание и вычисляет число клеток на границе поля.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/10/10-D5.fil</ENV>
+       <ENV>robot/10/10-D4.fil</ENV>
+       <ENV>robot/10/10-D3.fil</ENV>
+       <ENV>robot/10/10-D2.fil</ENV>
+       <ENV>robot/10/10-D1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/10/10-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1005" xml:name="10-E">
+     <TITLE>10-E</TITLE>
+       <DESC>Робот находится на поле, которое разделено на две части 
+       фигурной стенкой, причем нижняя граница поля
+       свободна и все клетки, доступные Роботу,
+       просматриваются с нижней границы.&lt;br/&gt;
+       Робот должен закрасить все клетки, доступные ему,
+       и прийти на базу в правый нижний угол поля.&lt;br/&gt;
+       Используйте &lt;b&gt;вспомогательный алгоритм&lt;/b&gt;, который
+       вычисляет площадь доступной части поля.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/10/10-E5.fil</ENV>
+       <ENV>robot/10/10-E4.fil</ENV>
+       <ENV>robot/10/10-E3.fil</ENV>
+       <ENV>robot/10/10-E2.fil</ENV>
+       <ENV>robot/10/10-E1.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/10/10-E.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;алгоритмы с результатом&lt;/b&gt;).</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="11" xml:name="Урок 11: циклы с переменной">
+     <T xml:id="1101" xml:name="11-A">
+     <TITLE>11-A</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл с переменной&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/11/11-A.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/11/11-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1102" xml:name="11-B">
+     <TITLE>11-B</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл с переменной&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/11/11-B.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/11/11-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1103" xml:name="11-C">
+     <TITLE>11-C</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл с переменной&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/11/11-C.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/11/11-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1104" xml:name="11-D">
+     <TITLE>11-D</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;цикл с переменной&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/11/11-D.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/11/11-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;циклы с переменной&lt;/b&gt;).</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<T xml:id="12" xml:name="Урок 12: алгоритмы с параметрами">
+     <T xml:id="1201" xml:name="12-A">
+     <TITLE>12-A</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;алгоритм с параметрами&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/12/12-A.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/12/12-A.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1202" xml:name="12-B">
+     <TITLE>12-B</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;алгоритм с параметрами&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/12/12-B.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/12/12-B.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1203" xml:name="12-C">
+     <TITLE>12-C</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;алгоритм с параметрами&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/12/12-C.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/12/12-C.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+     <T xml:id="1204" xml:name="12-D">
+     <TITLE>12-D</TITLE>
+       <DESC>Робот должен закрасить все отмеченные клетки и прийти на базу 
+	   (в клетку, отмеченную буквой &lt;b&gt;Б&lt;/b&gt;).&lt;br/&gt;
+	   Используйте &lt;b&gt;алгоритм с параметрами&lt;/b&gt;.
+       </DESC>
+       <CS>Кумир</CS>
+       <ISP xml:ispname="Robot">
+       <ENV>robot/12/12-D.fil</ENV>
+       </ISP>
+       <PROGRAM>prog/12/12-D.kum</PROGRAM>
+       <READY>false</READY>
+       <MARK>0</MARK>
+    </T>
+
+    <DESC>Задания на &lt;b&gt;алгоритмы с параметрами&lt;/b&gt;).</DESC>
+    <CS>Кумир</CS>
+</T>
+
+<DESC>Вводный курс алгоритмизации на основе исполнителя &lt;b&gt;Робот&lt;/b&gt;. 
+ &lt;br/&gt;Автор &lt;i&gt;К.Ю. Поляков&lt;/i&gt; (&lt;i&gt;http://kpolyakov.narod.ru&lt;/i&gt;). 
+ </DESC>
+</KURS>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
