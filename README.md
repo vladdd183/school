@@ -25,9 +25,12 @@
   - [x] [Robot-9A](../master/Kumir/Final/9/robot-9A.kum)
   - [x] [Robot-9B](../master/Kumir/Final/9/robot-9B.kum)
   - [x] [Robot-9C](../master/Kumir/Final/9/robot-9C.kum)
-  - [ ] Robot-9D
+  - [x] Robot-9D
 
 ## Informatic
  - [x] [Zadanie_IN9_03022017](../master/Oge/Informatics/Answers/Zadanie_IN9_03022017.pdf)
- - [ ] [Zadanie_IN9_06032017](../master/Oge/Informatics/Answers/Zadanie_IN9_06032017.pdf)
- - [ ] [Zadanie_IN9_28042017](../master/Oge/Informatics/Answers/Zadanie_IN9_28042017.pdf)
+  - [x] [2 part Faily_IN9_03022017](../master/Oge/Informatics/Answers/Faily_IN9_03022017.pdf)
+ - [x] [Zadanie_IN9_06032017](../master/Oge/Informatics/Answers/Zadanie_IN9_06032017.pdf)
+  - [x] [2 part Faily_IN9_06032017](../master/Oge/Informatics/Answers/Faily_IN9_06032017.pdf)
+ - [x] [Zadanie_IN9_28042017](../master/Oge/Informatics/Answers/Zadanie_IN9_28042017.pdf)
+  - [x] [2 part Faily_IN9_28042017](../master/Oge/Informatics/Answers/Faily_IN9_28042017.pdf)
