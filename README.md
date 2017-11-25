@@ -34,3 +34,5 @@
   - [x] [2 part Faily_IN9_06032017](../master/Oge/Informatics/Answers/Faily_IN9_06032017.pdf)
 - [x] [Zadanie_IN9_28042017](../master/Oge/Informatics/Answers/Zadanie_IN9_28042017.pdf)
   - [x] [2 part Faily_IN9_28042017](../master/Oge/Informatics/Answers/Faily_IN9_28042017.pdf)
+- [x] [Zadanie_IN9_25092017](../master/Oge/Informatics/Answers/Zadanie_IN9_25092017.pdf)
+  - [x] [2 part Faily_IN9_25092017](../master/Oge/Informatics/Answers/Faily_IN9_25092017.pdf)
